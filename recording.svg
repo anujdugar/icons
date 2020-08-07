@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>recording</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="recording" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M25,13.0001159 C25,6.37216282 19.6273512,1 13.0001209,1 C6.37258834,1 1,6.37216282 1,13.0001159 C1,19.6271619 6.37258834,24.999748 13.0001209,24.999748 C19.6273512,24.999748 25,19.6271619 25,13.0001159 Z" id="Fill-1" fill="#FFFFFF"></path>
+        <path d="M20,13.0002973 C20,9.13400123 16.8661598,6 13.0002124,6 C9.13426496,6 6,9.13400123 6,13.0002973 C6,16.8659988 9.13426496,20 13.0002124,20 C16.8661598,20 20,16.8659988 20,13.0002973 Z" id="Fill-2" fill="#D1091F"></path>
+    </g>
+</svg>
